@@ -47,7 +47,7 @@
 
 * https://vim-adventures.com/ (en) – Интерактивная игра обучающая управлению в VIM
 * https://www.openvim.com/ (en) - Интерактивное руководство по VIM
-* https://github.com/renzorlive/vimmaster (en) - Ещё одна игра по азам управления в VIM. Примечательна реализацией одним html-файлом (но для стилей извне подтягивается tailwindcss).
+* https://github.com/renzorlive/vimmaster (en) - Ещё одна игра по азам управления в VIM
 
 #### ASM
 
